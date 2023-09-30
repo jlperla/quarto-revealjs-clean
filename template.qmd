@@ -45,7 +45,7 @@ Cross-references
 
 ### See our longer demo slides
 
-We've deliberarely kept this template lean, to get you up and running as fast as
+We've deliberately kept this template lean, to get you up and running as fast as
 possible.
 
 We provide a separate
